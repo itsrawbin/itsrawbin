@@ -1,3 +1,1 @@
-### Hi there 👋
-
-## Trying Hard!! :)
+# Hi there 👋
